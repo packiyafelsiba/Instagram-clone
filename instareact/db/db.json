@@ -1,0 +1,404 @@
+{
+  "posts": [
+    {
+      "id": "p1",
+      "image": "/src/assets/post1.jpg",
+      "caption": "Evening vibes ✨🌆",
+      "createdAt": "2025-01-10T08:30:00.000Z",
+      "user": {
+        "id": "u1",
+        "username": "micheal_dev",
+        "profile": "/src/assets/u1.jpg"
+      },
+      "likesCount": 304,
+      "isLiked": false,
+      "likes": [
+        {
+          "userId": "u2",
+          "username": "anu_photography",
+          "createdAt": "2025-01-10T08:40:00.000Z"
+        }
+      ],
+      "comments": [
+        {
+          "id": "c1",
+          "text": "Nice pic bro 🔥",
+          "createdAt": "2025-01-10T08:45:00.000Z",
+          "user": {
+            "id": "u2",
+            "username": "anu_photography"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "image": "/src/assets/post2.jpg",
+      "caption": "Beautiful Place and colour✨",
+      "createdAt": "2025-01-09T14:00:00.000Z",
+      "user": {
+        "id": "u3",
+        "username": "raj.codes",
+        "profile": "/src/assets/u2.jpg"
+      },
+      "likesCount": 101,
+      "isLiked": false,
+      "likes": [
+        {
+          "userId": "u1",
+          "username": "micheal_dev",
+          "createdAt": "2025-01-09T14:10:00.000Z"
+        }
+      ],
+      "comments": [
+        {
+          "id": "c3",
+          "text": "Bro colours semma 🔥",
+          "createdAt": "2025-01-09T14:20:00.000Z",
+          "user": {
+            "id": "u1",
+            "username": "micheal_dev"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "image": "/src/assets/post3.jpg",
+      "caption": "Travel mood 🌴",
+      "createdAt": "2025-01-07T12:00:00.000Z",
+      "user": {
+        "id": "u2",
+        "username": "anu_photography",
+        "profile": "/src/assets/u3.jpg"
+      },
+      "likesCount": 124,
+      "isLiked": false,
+      "likes": [
+        {
+          "userId": "u1",
+          "username": "micheal_dev",
+          "createdAt": "2025-01-07T12:15:00.000Z"
+        }
+      ],
+      "comments": [
+        {
+          "id": "c4",
+          "text": "Where is this place? 🔥",
+          "createdAt": "2025-01-07T12:25:00.000Z",
+          "user": {
+            "id": "u4",
+            "username": "selva_ui"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "image": "/src/assets/post4.jpg",
+      "caption": "Night City Lights 🌃",
+      "createdAt": "2025-01-05T20:10:00.000Z",
+      "user": {
+        "id": "u4",
+        "username": "selva_ui",
+        "profile": "/src/assets/u4.jpg"
+      },
+      "likesCount": 99,
+      "likes": [
+        {
+          "userId": "u2",
+          "username": "anu_photography",
+          "createdAt": "2025-01-05T20:20:00.000Z"
+        }
+      ],
+      "comments": [
+        {
+          "id": "c5",
+          "text": "Perfect lighting ✨",
+          "createdAt": "2025-01-05T20:30:00.000Z",
+          "user": {
+            "id": "u3",
+            "username": "raj.codes"
+          }
+        }
+      ],
+      "isLiked": true
+    },
+    {
+      "id": "p5",
+      "image": "/src/assets/post5.jpg",
+      "caption": "Coffee time ☕✨",
+      "createdAt": "2025-01-04T10:00:00.000Z",
+      "user": {
+        "id": "u5",
+        "username": "deepa_clicks",
+        "profile": "/src/assets/u5.jpg"
+      },
+      "likesCount": 211,
+      "likes": [
+        {
+          "userId": "u3",
+          "username": "raj.codes",
+          "createdAt": "2025-01-04T10:15:00.000Z"
+        }
+      ],
+      "comments": [
+        {
+          "id": "c6",
+          "text": "Aesthetic shot 😍",
+          "createdAt": "2025-01-04T10:20:00.000Z",
+          "user": {
+            "id": "u6",
+            "username": "arjun_editz"
+          }
+        }
+      ],
+      "isLiked": true
+    },
+    {
+      "id": "p6",
+      "image": "/src/assets/post6.jpg",
+      "caption": "Nature is love 🌿",
+      "createdAt": "2025-01-02T09:00:00.000Z",
+      "user": {
+        "id": "u6",
+        "username": "arjun_editz",
+        "profile": "/src/assets/u6.jpg"
+      },
+      "likesCount": 322,
+      "likes": [
+        {
+          "userId": "u5",
+          "username": "deepa_clicks",
+          "createdAt": "2025-01-02T09:15:00.000Z"
+        }
+      ],
+      "comments": [
+        {
+          "id": "c7",
+          "text": "Green vibes 🔥",
+          "createdAt": "2025-01-02T09:20:00.000Z",
+          "user": {
+            "id": "u2",
+            "username": "anu_photography"
+          }
+        }
+      ],
+      "isLiked": true
+    }
+  ],
+  "Profiles": [
+    {
+      "id": "u1",
+      "username": "micheal_deva",
+      "profile": "/src/assets/u1.jpg"
+    },
+    {
+      "id": "u1",
+      "username": "micheal_dev",
+      "profile": "/src/assets/u1.jpg"
+    },
+    {
+      "id": "u1",
+      "username": "micheal_dev",
+      "profile": "/src/assets/u1.jpg"
+    }
+  ],
+  "suggestion": [
+    {
+      "id": "u1",
+      "username": "micheal_dev",
+      "profile": "/src/assets/u6.jpg"
+    },
+    {
+      "id": "u4",
+      "username": "kiran_smiley",
+      "profile": "/src/assets/u4.jpg"
+    },
+    {
+      "id": "u2",
+      "username": "raj.codes",
+      "profile": "/src/assets/u2.jpg"
+    },
+    {
+      "id": "u3",
+      "username": "anu_photography",
+      "profile": "/src/assets/u3.jpg"
+    },
+    {
+      "id": "u5",
+      "username": "deepa_clicks",
+      "profile": "/src/assets/u5.jpg"
+    },
+    {
+      "id": "u6",
+      "username": "arjun_editz",
+      "profile": "/src/assets/u1.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "image": "/src/assets/t1.jpg",
+      "user": {
+        "id": "u1",
+        "username": "micheal_dev",
+        "profile": "/src/assets/u1.jpg"
+      }
+    },
+    {
+      "id": "2",
+      "image": "/src/assets/t2.jpg",
+      "user": {
+        "id": "u3",
+        "username": "raj.codes",
+        "profile": "/src/assets/u2.jpg"
+      }
+    },
+    {
+      "id": "3",
+      "image": "/src/assets/t3.jpg",
+      "user": {
+        "id": "u2",
+        "username": "anu_photography",
+        "profile": "/src/assets/u4.jpg"
+      }
+    },
+    {
+      "id": "4",
+      "image": "/src/assets/t4.jpg",
+      "user": {
+        "id": "u4",
+        "username": "arjun_art",
+        "profile": "/src/assets/u3.jpg"
+      }
+    },
+    {
+      "id": "5",
+      "image": "/src/assets/t5.jpg",
+      "user": {
+        "id": "u5",
+        "username": "raman_travel",
+        "profile": "/src/assets/u5.jpg"
+      }
+    },
+    {
+      "id": "6",
+      "image": "/src/assets/t6.jpg",
+      "user": {
+        "id": "u6",
+        "username": "sara_life",
+        "profile": "/src/assets/u6.jpg"
+      }
+    }
+  ],
+  "followers": [
+    {
+      "id": "u4",
+      "username": "kiran_smiley",
+      "profile": "/src/assets/u4.jpg"
+    },
+    {
+      "id": "u2",
+      "username": "raj.codes",
+      "profile": "/src/assets/u2.jpg"
+    },
+    {
+      "id": "u3",
+      "username": "anu_photography",
+      "profile": "/src/assets/u3.jpg"
+    },
+    {
+      "id": "u6",
+      "username": "arjun_editz",
+      "profile": "/src/assets/u1.jpg"
+    }
+  ],
+  "shared": [
+    {
+      "id": "f2b1",
+      "sharedTo": [
+        {
+          "id": "u1",
+          "userId": "u1",
+          "username": "anu_photography",
+          "profile": "/src/assets/u4.jpg"
+        },
+        {
+          "id": "u2",
+          "userId": "u2",
+          "username": "raj.codes",
+          "profile": "/src/assets/u2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "75c4",
+      "sharedTo": [
+        {
+          "id": "u2",
+          "userId": "u2",
+          "username": "raj.codes",
+          "profile": "/src/assets/u2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a82b",
+      "sharedTo": [
+        {
+          "id": "u1",
+          "userId": "u1",
+          "username": "anu_photography",
+          "profile": "/src/assets/u4.jpg"
+        },
+        {
+          "id": "u2",
+          "userId": "u2",
+          "username": "raj.codes",
+          "profile": "/src/assets/u2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0064",
+      "sharedTo": [
+        {
+          "id": "u3",
+          "username": "anu_photography",
+          "profile": "/src/assets/u3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5444",
+      "sharedTo": [
+        {
+          "id": "u6",
+          "username": "arjun_editz",
+          "profile": "/src/assets/u1.jpg"
+        },
+        {
+          "id": "u3",
+          "username": "anu_photography",
+          "profile": "/src/assets/u3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "84da",
+      "sharedTo": [
+        {
+          "id": "u6",
+          "username": "arjun_editz",
+          "profile": "/src/assets/u1.jpg"
+        },
+        {
+          "id": "u3",
+          "username": "anu_photography",
+          "profile": "/src/assets/u3.jpg"
+        }
+      ]
+    }
+  ]
+}
